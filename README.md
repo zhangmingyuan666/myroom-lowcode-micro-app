@@ -1,29 +1,11 @@
-# gdutelc-recruit
+<!--
+ * @Date: 2022-10-19 20:14:34
+ * @LastEditors: zhang-mingyuan123 2369558390@qq.com
+ * @LastEditTime: 2022-10-27 14:50:52
+ * @FilePath: \myroom\README.md
+ * @description: none
+-->
 
-## Project setup
-```
-npm install
-```
+# myroom-lowcode-micro-app
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+基于 Vue3 的拖拽低代码海报生成器 --form Ming
